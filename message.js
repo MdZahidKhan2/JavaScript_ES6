@@ -1,0 +1,1 @@
+export let NewMessage = 'Hi Zahid';
